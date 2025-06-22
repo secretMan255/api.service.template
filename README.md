@@ -1,11 +1,12 @@
 # api.service.template
 A rest api express api service
 
-## Initialize Service
-
-```bash 
+# Initialize Service
+``` 
 npm i
+```
 
-## Run Service
-```bash
+# Run Service
+```
 npm run dev
+```
